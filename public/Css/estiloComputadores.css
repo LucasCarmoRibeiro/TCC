@@ -1,0 +1,30 @@
+
+
+.Basesala{
+
+        width: auto;
+        margin: 0 auto;
+        background-color: #ff8c00;
+        padding: 0 20px 20px 20px;
+        border: 1px solid black;
+      }
+
+
+      .icones{
+        margin: auto;
+        padding: auto;
+    }
+
+    .divPC{
+
+    width: auto;;
+    display: inline-flex;
+    vertical-align: auto;
+    text-align: center;
+
+    }
+
+    .centrodiv{
+
+        text-align: center;
+    }

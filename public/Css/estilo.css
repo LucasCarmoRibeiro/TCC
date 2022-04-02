@@ -1,0 +1,95 @@
+.fundoCabecalho{
+    background-color: #2F7843;
+}
+
+.logo {
+    padding-left: 5px;
+}
+
+.centralTitulo{
+    padding-top: 1px;
+    margin-right: 5px;
+ }
+
+.FormatacaoTiTulo{
+
+    color: #ffffff;
+}
+.SombraTitulo{
+
+    text-shadow: 0.1em 0.1em 0.2em black;
+
+}
+
+
+.menuFormatacao{
+
+    width: 100%;  
+   
+
+    background: #4A1B82;
+}
+
+.menuTextoFormacao{
+    color: #ffffff;
+    padding: 10px;
+
+
+}
+
+.rodape1{
+
+
+        background-color: #2F7843;
+        color: #2F7843;
+         position: fixed;
+    height: 50px;
+    bottom: 0;
+    width: 100%;
+
+
+
+}
+.rodape2{
+
+        background-color: #4A1B82;
+        color: #4A1B82;
+         position: fixed;
+    height: 40px;
+    bottom: 0;
+    width: 100%;
+
+
+}
+
+.icones{
+    margin: auto;
+}
+
+.divPC{
+
+width: auto;;
+display: inline-flex;
+vertical-align:auto;
+text-align: center;
+margin: 1px;
+
+}
+
+.centrodiv{
+
+    text-align: center;
+}
+
+
+
+.Basesala{
+
+    width: auto;
+    margin: 0 auto;
+
+    padding: 0 20px 20px 20px;
+    border: 2px solid black;
+  }
+
+
